@@ -63,6 +63,7 @@ const useStyles = makeStyles((theme) => ({
     marginRight: "40px",
     [theme.breakpoints.down("xs")]: {
       marginRight: "0px",
+      height: "40vh",
     },
   },
 }));
