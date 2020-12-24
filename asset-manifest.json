@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/dharmaIndex/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/dharmaIndex/static/js/main.3cccc2c8.chunk.js",
+    "main.js.map": "/dharmaIndex/static/js/main.3cccc2c8.chunk.js.map",
+    "runtime-main.js": "/dharmaIndex/static/js/runtime-main.b0ef029e.js",
+    "runtime-main.js.map": "/dharmaIndex/static/js/runtime-main.b0ef029e.js.map",
+    "static/js/2.0ee3e0b9.chunk.js": "/dharmaIndex/static/js/2.0ee3e0b9.chunk.js",
+    "static/js/2.0ee3e0b9.chunk.js.map": "/dharmaIndex/static/js/2.0ee3e0b9.chunk.js.map",
+    "static/js/3.f83b7146.chunk.js": "/dharmaIndex/static/js/3.f83b7146.chunk.js",
+    "static/js/3.f83b7146.chunk.js.map": "/dharmaIndex/static/js/3.f83b7146.chunk.js.map",
+    "index.html": "/dharmaIndex/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/dharmaIndex/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.0ee3e0b9.chunk.js.LICENSE.txt": "/dharmaIndex/static/js/2.0ee3e0b9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b0ef029e.js",
+    "static/js/2.0ee3e0b9.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.3cccc2c8.chunk.js"
+  ]
+}
